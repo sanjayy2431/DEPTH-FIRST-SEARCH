@@ -1,6 +1,6 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: SRIVATSAN G </h3>
+<h3>Name: SANJAY V</h3>
 <h3>Register Number: 212223230188</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
